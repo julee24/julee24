@@ -1,5 +1,11 @@
 ### Hello, I'm Julee 👋
 
+I'm a SMWU student majoring in mechanical systems engineering
+
+<h3 align="left">🛠 Tech Stack 🛠</h3>
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
 <!--
 **julee24/julee24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +19,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+<!--
+More about me:
+*
 -->
