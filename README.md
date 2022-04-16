@@ -1,6 +1,6 @@
 ### Hello, I'm Julee 👋
 
-I'm a SMWU student majoring in mechanical systems engineering
+I'm a SMWU student majoring in Mechanical Systems Engineering
 
 <h3 align="left">🛠 Tech Stack 🛠</h3>
 <p align="left">
